@@ -1,6 +1,6 @@
 # Flight Reservation System (Using Java & Swing )  
 
-This project was done during the period of August 2015 - November 2015 as a part of the Object Oriented Programming using Java Lab (CS 594D) in my 5th semester.
+This project was done during the period of August 2016 - November 2016 as a part of the Object Oriented Programming using Java Lab (CS 594D) in my 5th semester.
 
 <b>Aim :</b>  
 
@@ -11,13 +11,13 @@ Focus was given on adopting best design practices and making the system user fri
 
 <b>Team Members :  </b>  
 
-1. Ashish Kumar Sarkar (Team Lead)  
+1. Avinash Singh (Team Lead)  
 
-2. Bhaskar Tejaswi (Logic Designer)  
+2. Harsh Vardhan (Logic Designer)  
 
-3. Mukul Anand (UI Designer)  
+3. Baibhav Raj (UI Designer)  
 
-4. Ankit Anurag (Data Designer)   
+4. Atul chand (Data Designer)   
 
 <b>Problem Statement :  </b>  
 
