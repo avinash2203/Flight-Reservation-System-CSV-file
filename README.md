@@ -44,13 +44,10 @@ Develop a Flight Reservation System for travellers from Delhi, Mumbai and Pune t
 
 Flight details are provided in the following *.csv files:  
 
-SpiceJet Schedule -  2015.spicejet.csv
+SpiceJet Schedule -  2016.spicejet.csv
 
-SilkAir Schedule - 2015.silkair.csv
-
-SpiceJet Schedule - see http://www.spicejet.com/Schedules.aspx  
-
-SilkAir Schedule - see http://www.silkair.com/scheduleSearch-flow.form?execution=e1s1  
+SilkAir Schedule - 2016.silkair.csv
+ 
 
 <b>The Assumptions :</b>    
 
